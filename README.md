@@ -1,25 +1,25 @@
-# 👋 ¡Hola! Soy Sebastian Nieto
+#  ¡Hola! Soy Sebastian Nieto
 
-🎨 **Ingeniero en Animación Digital**  
+ **Ingeniero en Animación Digital**  
 Apasionado por el arte digital, el desarrollo de videojuegos y la creación de experiencias interactivas, combinando creatividad y tecnología en cada proyecto.
 
-## 🛠️ Habilidades Técnicas
+##  Habilidades Técnicas
 
 - **Lenguajes de Programación:** Java, HTML, CSS, C#, C++
 - **Herramientas y Plataformas:** Blender, Maya, Unity, Unreal Engine
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
 Me especializo en animación digital y desarrollo de videojuegos, utilizando herramientas líderes de la industria para crear mundos y personajes únicos. Mi enfoque es siempre innovar y aprender nuevas tecnologías para mejorar la calidad y el impacto visual de mis proyectos.
 
-## 💡 Intereses
+##  Intereses
 
 - Animación 3D y 2D
 - Realidad virtual y aumentada
 - Diseño de videojuegos
 - Efectos visuales (VFX)
 
-## 🗂️ Proyectos Destacados
+##  Proyectos Destacados
 
 - [**webapp**](https://github.com/SebasNietoBaca/webapp)  
   Aplicación web desarrollada con tecnologías modernas de HTML y CSS.
@@ -63,4 +63,4 @@ Me especializo en animación digital y desarrollo de videojuegos, utilizando her
 ---
 
 ¡Siempre estoy abierto a colaborar o compartir ideas sobre animación y tecnología!  
-⭐️ _“La creatividad es la inteligencia divirtiéndose.”_
+ _“La creatividad es la inteligencia divirtiéndose.”_
